@@ -12,7 +12,7 @@
 ## Introduction
 FrankieAi will start out as a small learning project to help familiarize myself with new technologies I have wanted to learn and serve as a playground for me to test new ideas in both fullstack development and ai alike. 
 ## Features
-List the key features of your project:
+The key features of my product:
 - Financial analysis and forecasting - Ai assisted  
 - Time management, goals, & Habit Tracking - Ai assisted 
 - Create my own Ai Assistant
